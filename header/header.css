@@ -27,8 +27,7 @@ a {
   color:white;
 }
 
-.header__item:hover,
-.header__item a:active{
+.header__item:hover{
   border: 2px solid white;
   color:#415370;
 }
